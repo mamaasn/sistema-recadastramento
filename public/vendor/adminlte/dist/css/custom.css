@@ -1,0 +1,10 @@
+a.button-link {
+    text-decoration: none !important;
+    color: #fff;
+}
+
+
+.modal {
+    overflow-y: auto;
+}
+    
